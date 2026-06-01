@@ -29,3 +29,10 @@ Reset App State clears user data immediately without asking for confirmation, wh
 - Task1_QA_Report_Tanishk.pdf
 - Screenshots
 - README.md
+Automation-QA-Assessment
+│
+├── README.md
+├── Task1_QA_Report_Tanishk.pdf
+├── Task2_Workflow_Tanishk.json
+├── workflow_canvas.png
+└── workflow_execution.png
